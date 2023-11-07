@@ -29,7 +29,7 @@ Virtual Machine- Acts like computer within a computer, virtualization of a compu
 SSL(Secure Socket Layer)/Tunnel- IP address + Port number
 Port Number
 FTP: 20, 21
-[pubsub](#https://www.google.com/search?q=pubsub&oq=pubsub&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI0MzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+[pubsub](https://www.google.com/search?q=pubsub&oq=pubsub&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI0MzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 HTTP: 80
 HTTPS: 443
 STMP: 25
