@@ -1,4 +1,4 @@
-WORDS  RELATED TO COMPUITNG:
+-WORDS  RELATED TO COMPUITNG:
 This repo is to record new keywords.
 CISC(Complex Instruction Set Computer)- Intel, AMD - Closed source
 RISC(Reduced Instruction Set Computer)- ARM - Closed source
